@@ -20,9 +20,26 @@ We hope you enjoy using ChatGPT and that these prompts are helpful.
 
 Yes, all the prompts as specially Sass Focused. With a lot of variations.
 
+#### There's is also something for all.
+
 > Here is YTGPT prompts that are fully focused on YouTube content creation.
 
-[YTGPT](https://vorentai01.gumroad.com/l/yvfep)
+![](https://ph-files.imgix.net/498bcb0b-6439-4a76-b42f-0a8c4301b026.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1)
+
+[YTGPT - YouTube content creation Prompts](https://vorentai01.gumroad.com/l/yvfep)
+
+> Don't waste a lot searching for right or exact prompt here, you'll find everything!
+
+---
+
+> Here is MLGPT prompts that are fully focused on Machine Learning.
+
+![](https://public-files.gumroad.com/variants/3fq6d31h2b2zlkdbgohidqi165tx/f58ff292ae37ddee473360db41d5009be0fd8c7cb5cf43443d03c6b00c39f38b)
+
+[MLGPT - Machine learning Prompts](https://vorentai01.gumroad.com/l/yylit)
+
+> Don't waste a lot searching for right or exact prompt here, you'll find everything!
+
 
 ---
 
